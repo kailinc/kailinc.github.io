@@ -3,14 +3,16 @@
 }
 
 body {
-	font-family: AppleGothic;
+	font-family: 'Open Sans', sans-serif;
 	background: url("https://static.pexels.com/photos/35107/pexels-photo.jpg");
 	background-repeat: no-repeat 
 	background-position: center-top;
 	background-size: cover;
 	color: white;
 }
-
+h1 {
+	font-family: 'Rancho', cursive ;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
